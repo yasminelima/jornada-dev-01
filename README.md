@@ -2,7 +2,7 @@
 
 <p>Primeira atividade em HTML usando as ferramentas <strong>Git</strong> e <strong>Github</strong> na <strong>JORNADA DEV</strong> da plataforma <a href="https://ebaconline.com.br/webinars/jornada-dev-novembro-22-29" target="_blank"><strong>EBAC</strong></a>.
 
-<p> <a href="https://yasminelima.github.io/jornada-dev-01/" target="_blank">LINK PARA ACESSO DA PÁGINA DOS PROJETOS</a></p>
+<p> <a href="https://yasminelima.github.io/jornada-dev-01/" target="_blank">LINK PARA ACESSO A PÁGINA DA ATIVIDADE</a></p>
 
 <table>
     <tr>
